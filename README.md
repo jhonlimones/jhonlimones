@@ -27,7 +27,7 @@ desplegando desde microservicios hasta pipelines de IA en producción real.
 - **[hub-registry](https://registry.jhonlimones.com)** — Registry OCI privado en Rust/Axum con JWT, TOTP 2FA y garbage collection
 - **BUNNU** — Plataforma de asistentes IA con modelos locales vía Ollama, desplegada en K8s
 - **[rpsweb](https://rpsweb.jhonlimones.com)** — Juego multijugador en tiempo real (Go + WebSockets), con reconexión automática
-- **YouTube Toxicity Detector** — BERT fine-tuned + FastAPI, imagen multiarch en el clúster
+- **YouTube Toxicity Detector** — Modelo entrenado desde cero + FastAPI, imagen multiarch en el clúster
 
 ---
 
