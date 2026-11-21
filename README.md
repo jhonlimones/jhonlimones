@@ -18,7 +18,7 @@ desplegando desde microservicios hasta pipelines de IA en producción real.
 `Oracle Cloud` `AWS` `Azure`
 
 **Datos & IA**  
-`MLOps` `FastAPI` `Ollama` `BERT` `PostgreSQL` `MinIO`
+`MLOps` `FastAPI` `Ollama` `PostgreSQL` `MinIO`
 
 ---
 
